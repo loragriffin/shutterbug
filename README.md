@@ -1,2 +1,2 @@
-# shutterbug
-Photo sharing app
+# ShutterBug
+Photo sharing app for families and friends
